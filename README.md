@@ -27,7 +27,7 @@ _The Dinosaur Who Can Never Look Back_
 ---
 
 "trotsky"
-![](trotsky.jpg)
+![](Leon_trotsky.jpg)
 
 "club dinosaur"
 
