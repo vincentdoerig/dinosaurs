@@ -196,3 +196,6 @@ short"
 "polytroper-bug"
 
 ![](polytroper-bug.png)
+"Joy1654-dino"
+
+![](Joy1654-dino.png)
